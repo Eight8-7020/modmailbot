@@ -1,4 +1,4 @@
-## Rotating status plugin for modmailbot ##
+# Rotating status plugin for modmailbot #
 This is a plugin designed by [LFCfan25](https://github.com/LFCfan25) also known as Eight8#7020 on discord. If you need support on this, please ping me in #other-chatter in the main [support server](https://discord.gg/vRuhG9R).  
 
 ### Setup ###
@@ -19,3 +19,5 @@ Note that due to the status being a random pick, you can add more options by add
 ## Time ##
 This value should be set to the time (in miliseconds) that a status is rotated. please note anything under 15000 miliseconds will make your bot unusable.  
 For example, if I wanted the bot to change its status every 115000 miliseconds, I would set it to ```"time":"11500"```.  
+
+In order for changes to take affect, restart your bot.  
