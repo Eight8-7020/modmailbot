@@ -1,5 +1,5 @@
 # Rotating status plugin for modmailbot #
-This is a plugin designed by [LFCfan25](https://github.com/LFCfan25) also known as Eight8#7020 on discord. If you need support on this, please ping me in #other-chatter in the main [support server](https://discord.gg/vRuhG9R).  
+This is a plugin designed by [Eight8-7020](https://github.com/Eight8-7020) also known as Eight8#7020 on discord. If you need support on this, please ping me in #other-chatter in the main [support server](https://discord.gg/vRuhG9R).  
 
 ### Setup ###
 Download and add the status folder into your ./src directory.  
